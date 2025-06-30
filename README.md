@@ -1,4 +1,4 @@
-# Sales-Dashboard
+ Sales-Dashboard
 
 
 
@@ -47,11 +47,16 @@ Revenue By Business Type
 . 
 - Step 8 : Visual filters (Slicers) were added for Two fields named "Year", "Continent", creat arrow trend to provide change year-over-year.
 
-![year-over-year](https://github.com/user-attachments/assets/93e6294e-e864-4df4-85c9-0e0af59b9f20)
+![year-over-year](https://github.com/user-attachments/assets/578feaa1-5729-4335-8716-e3d4082bb200)
 
 - Step 9 : Create Root Cause analysis for Category To Know More detailed to each category  &summary.
 
 ![product analysis](https://github.com/user-attachments/assets/5dbdded5-879f-45f6-9a9a-023c2ee9da67)
+
+
+![Filters](https://github.com/user-attachments/assets/8021f6bb-4495-4f86-9b22-8e9d2b1379fb)
+
+![summary](https://github.com/user-attachments/assets/bb3a1f04-97e6-49b7-9ad0-306c7b7e4202)
 
 ![locations analysis](https://github.com/user-attachments/assets/6dcee92a-379b-4256-8deb-fffd14001e75)
            
@@ -67,6 +72,9 @@ distinguishing between new and returning customers in both sales and orders
 
 ![Customer analysis Dashboard](https://github.com/user-attachments/assets/cc4ff429-2f4a-49b5-9dd5-b8624e28980a)
 
+
+![Customer details](https://github.com/user-attachments/assets/de390c96-d770-4349-ad0f-06133a43ba12)
+
 - Visual filters (Slicers) were added for Two fields named "Year", "Country Name", creat arrow trend to provide change year-over-year..
 
 - Step 13 : Bulild return analysis Dashboard
@@ -79,4 +87,6 @@ Order & Customer return by Region
 
 distinguishing between Oreder and customer returning customers By bookmarks 
 
-![return analysis Dashboard](https://github.com/user-attachments/assets/80ea4293-c1b0-4c39-8bf3-a17e70318993)
+![return analysis by orders](https://github.com/user-attachments/assets/863b8a7a-2c63-4928-b7a8-a52168e58872)
+
+![return analysis by customer](https://github.com/user-attachments/assets/1974e68f-66f3-47a6-8999-4542728a5d1f)
